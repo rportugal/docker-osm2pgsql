@@ -1,4 +1,6 @@
 # docker-osm2pgsql
+[![Docker Pulls](https://badgen.net/docker/pulls/rportugal/osm2pgsql?icon=docker&label=pulls)](https://hub.docker.com/r/rportugal/osm2pgsql/)
+
 
 ## Build from Dockerfile
 
